@@ -1,4 +1,4 @@
-# Student Portal Dashboard
+# Student Portal Dashboard (React based) 
 
 This project is a highly responsive, multi-page student dashboard designed for [translate:Shri Ramdeobaba College of Engineering and Management (RCOEM)], specifically tailored for Nabha in the Information Technology branch.
 
