@@ -22,25 +22,11 @@ The goal of this submission was to create a solution that is unique, complex, an
 
 ---
 
-## How to Run the Project
-
-Since this project is contained within a single StudentDashboard.jsx file, running it is straightforward in any modern development environment that supports React:
-
-### Local Setup (Recommended):
-
-1. **Save the provided code as [translate:StudentDashboard.jsx].**
-
-2. If using an environment like CodeSandbox or a standard React project, simply ensure the main App component is rendered by ReactDOM.createRoot.
-
-3. The necessary libraries Chart.js, lucide-react, and Tailwind CSS are loaded via CDN scripts for immediate functionality.
-
----
-
 ## Required Libraries (CDN/Import):
 
-- **[translate:React]**: Used for component-based UI.
-- **[translate:Tailwind CSS]**: Used for all styling and responsiveness.
-- **[translate:Chart.js v4]**: Used to render the dynamic Attendance and CGPA charts.
+- **React**: Used for component-based UI.
+- **Tailwind CSS**: Used for all styling and responsiveness.
+- **Chart.js v4**: Used to render the dynamic Attendance and CGPA charts.
 
 ---
 
