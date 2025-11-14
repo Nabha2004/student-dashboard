@@ -22,7 +22,7 @@ The goal of this submission was to create a solution that is unique, complex, an
 
 ---
 
-## 🛠️ How to Run the Project
+## How to Run the Project
 
 Since this project is contained within a single [translate:StudentDashboard.jsx] file, running it is straightforward in any modern development environment that supports React:
 
