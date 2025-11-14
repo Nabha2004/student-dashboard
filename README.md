@@ -13,7 +13,7 @@ The goal of this submission was to create a solution that is unique, complex, an
   - **Profile (/profile)**: Personal and institutional details.
 
 - **Unique Layout & Visualization**:
-  - The Attendance Chart ([translate:Chart.js]) is the primary focal point of the dashboard, placed above the summary cards to prioritize the most critical metric.
+  - The Attendance Chart Chart.js is the primary focal point of the dashboard, placed above the summary cards to prioritize the most critical metric.
   - All Upcoming Events and Notices are implemented as clickable interactive elements that navigate the user to the detailed Schedule page.
 
 - **Modern Technology Stack**: Built using React and Tailwind CSS, ensuring a modular, maintainable, and highly aesthetic dark-mode design.
@@ -24,15 +24,15 @@ The goal of this submission was to create a solution that is unique, complex, an
 
 ## How to Run the Project
 
-Since this project is contained within a single [translate:StudentDashboard.jsx] file, running it is straightforward in any modern development environment that supports React:
+Since this project is contained within a single StudentDashboard.jsx file, running it is straightforward in any modern development environment that supports React:
 
 ### Local Setup (Recommended):
 
 1. **Save the provided code as [translate:StudentDashboard.jsx].**
 
-2. If using an environment like CodeSandbox or a standard React project, simply ensure the main App component is rendered by [translate:ReactDOM.createRoot].
+2. If using an environment like CodeSandbox or a standard React project, simply ensure the main App component is rendered by ReactDOM.createRoot.
 
-3. The necessary libraries ([translate:Chart.js], [translate:lucide-react], and [translate:Tailwind CSS]) are loaded via CDN scripts for immediate functionality.
+3. The necessary libraries Chart.js, lucide-react, and Tailwind CSS are loaded via CDN scripts for immediate functionality.
 
 ---
 
@@ -46,7 +46,7 @@ Since this project is contained within a single [translate:StudentDashboard.jsx]
 
 ## Navigation:
 
-Navigation is handled using simple client-side routing based on the URL hash ([translate:#/academics], [translate:#/schedule], etc.), which works instantly without needing external routers.
+Navigation is handled using simple client-side routing based on the URL hash #/academics, #/schedule, etc.), which works instantly without needing external routers.
 
 ---
 
