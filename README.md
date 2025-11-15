@@ -47,7 +47,7 @@ Navigation is handled using simple client-side routing based on the URL hash #/a
 1. Clone the repository:
 
 git clone <repository-url>
-cd <repository-folder>
+cd student-dashboard
 
 2. Install dependencies:
 
