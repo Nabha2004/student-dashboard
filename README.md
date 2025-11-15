@@ -46,7 +46,7 @@ Navigation is handled using simple client-side routing based on the URL hash #/a
 
 1. Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/Nabha2004/student-dashboard
 cd student-dashboard
 
 2. Install dependencies:
