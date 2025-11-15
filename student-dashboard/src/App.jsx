@@ -9,9 +9,9 @@ const studentData = {
   branch: "Information Technology",
   college: "Ramdeobaba College of Engineering and Management (RCOEM)",
   email: "nabha.it22@rknec.edu",
-  rollNo: "IT22B1001",
+  rollNo: "8",
   currentSem: 7, // UPDATED: Reflecting 7th semester
-  cgpa: 9.4, // Updated average CGPA
+  cgpa: 9.5, // Updated average CGPA
   creditsEarned: 135,
   creditsTotal: 160,
   attendancePercentage: 90.5,
